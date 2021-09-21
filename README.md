@@ -1,6 +1,6 @@
 # SmileFoundation
 
-Payment Gateway Integration #SEPETEMBER21 #TheSparksFoundation I have made this website using HTML5, CSS3 and JavaScript for making website for Smile Foundation through which we can donate to a needy childrens basically
+Payment Gateway Integration #SEPETEMBER21 #TheSparksFoundation I have made this website using HTML5, CSS3 and bootstrap for making website for Smile Foundation through which we can donate to a needy childrens basically
 for childrens welfare using a payment gateway. I have made this website under my internship in The Sparks Foundation, SEPETEMBER2021 under task#3.
 https://thesparksfoundationsingapore.org/
 
